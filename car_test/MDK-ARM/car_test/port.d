@@ -1,0 +1,12 @@
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+car_test\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+car_test\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+car_test\port.o: ../Core/Inc/FreeRTOSConfig.h
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+car_test\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
